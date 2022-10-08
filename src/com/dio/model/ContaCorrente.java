@@ -7,6 +7,4 @@ public class ContaCorrente extends Conta{
         System.out.println("= Extrato C/C ======");
         super.imprimirMovimento();
     }
-
-
 }
